@@ -155,7 +155,6 @@ document.addEventListener("keydown", (event) => {
 });
 
 
-
 // Event untuk mengontrol ular dengan klik
 canvas.addEventListener("click", (event) => {
     if (!gameRunning) return;
